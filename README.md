@@ -18,7 +18,6 @@ A modern full-stack app built using **Next.js (App Router)**, **Supabase** for d
 
 ## 🧠 Setup
 ```bash
-git clone https://github.com/yourusername/nextjs-supabase-crud-shadcn.git
-cd nextjs-supabase-crud-shadcn
+git clone https://github.com/Youssef-Abdelhakim-Dev/Next.js-CRUD
 npm install
 npm run dev
